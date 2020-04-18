@@ -1,0 +1,125 @@
+<?xml version="1.0"?>
+<University xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Author="Oybek Abdulazizov" CreatedAt="2020-29-18">
+  <Students>
+    <Student IndexNumber="459">
+      <FirstName>Paweł</FirstName>
+      <LastName>Nowak1</LastName>
+      <DOB>2000-02-12</DOB>
+      <EmailAddress>1@pjwstk.edu.pl</EmailAddress>
+      <FatherName>Adam</FatherName>
+      <MotherName>Alina</MotherName>
+      <Study>
+        <Name>Informatyka dzienne</Name>
+        <Mode>Dzienne</Mode>
+      </Study>
+    </Student>
+    <Student IndexNumber="459">
+      <FirstName>Paweł</FirstName>
+      <LastName>Nowak1</LastName>
+      <DOB>2000-02-12</DOB>
+      <EmailAddress>1@pjwstk.edu.pl</EmailAddress>
+      <FatherName>Adam</FatherName>
+      <MotherName>Alina</MotherName>
+      <Study>
+        <Name>Informatyka magisterskie 4 sem</Name>
+        <Mode>Dzienne</Mode>
+      </Study>
+    </Student>
+    <Student IndexNumber="459">
+      <FirstName>Paweł</FirstName>
+      <LastName>Nowak1</LastName>
+      <DOB>2000-02-12</DOB>
+      <EmailAddress>1@pjwstk.edu.pl</EmailAddress>
+      <FatherName>Adam</FatherName>
+      <MotherName>Alina</MotherName>
+      <Study>
+        <Name>Informatyka doktoranckie</Name>
+        <Mode>Dzienne</Mode>
+      </Study>
+    </Student>
+    <Student IndexNumber="4816">
+      <FirstName>Kaja</FirstName>
+      <LastName>Jankowski29</LastName>
+      <DOB>2000-02-12</DOB>
+      <EmailAddress>29@pjwstk.edu.pl</EmailAddress>
+      <FatherName>Adam</FatherName>
+      <MotherName>Alina</MotherName>
+      <Study>
+        <Name>Sztuka Nowych Mediów dzienne</Name>
+        <Mode>Dzienne</Mode>
+      </Study>
+    </Student>
+    <Student IndexNumber="4749">
+      <FirstName>Justyna</FirstName>
+      <LastName>Kowalski30</LastName>
+      <DOB>2000-02-12</DOB>
+      <EmailAddress>30@pjwstk.edu.pl</EmailAddress>
+      <FatherName>Adam</FatherName>
+      <MotherName>Alina</MotherName>
+      <Study>
+        <Name>Sztuka Nowych Mediów dzienne</Name>
+        <Mode>Dzienne</Mode>
+      </Study>
+    </Student>
+    <Student IndexNumber="4749">
+      <FirstName>Justyna</FirstName>
+      <LastName>Kowalski30</LastName>
+      <DOB>2000-02-12</DOB>
+      <EmailAddress>30@pjwstk.edu.pl</EmailAddress>
+      <FatherName>Adam</FatherName>
+      <MotherName>Alina</MotherName>
+      <Study>
+        <Name>Sztuka Nowych Mediów uzupełniające magisterskie</Name>
+        <Mode>Dzienne</Mode>
+      </Study>
+    </Student>
+    <Student IndexNumber="4432">
+      <FirstName>Michał</FirstName>
+      <LastName>Nowak31</LastName>
+      <DOB>2000-02-12</DOB>
+      <EmailAddress>31@pjwstk.edu.pl</EmailAddress>
+      <FatherName>Adam</FatherName>
+      <MotherName>Alina</MotherName>
+      <Study>
+        <Name>Sztuka Nowych Mediów dzienne</Name>
+        <Mode>Dzienne</Mode>
+      </Study>
+    </Student>
+    <Student IndexNumber="4432">
+      <FirstName>Michał</FirstName>
+      <LastName>Nowak31</LastName>
+      <DOB>2000-02-12</DOB>
+      <EmailAddress>31@pjwstk.edu.pl</EmailAddress>
+      <FatherName>Adam</FatherName>
+      <MotherName>Alina</MotherName>
+      <Study>
+        <Name>Sztuka Nowych Mediów uzupełniające magisterskie</Name>
+        <Mode>Dzienne</Mode>
+      </Study>
+    </Student>
+    <Student IndexNumber="4757">
+      <FirstName>Kamil</FirstName>
+      <LastName>Brzęczyszczykiewicz32</LastName>
+      <DOB>2000-02-12</DOB>
+      <EmailAddress>32@pjwstk.edu.pl</EmailAddress>
+      <FatherName>Adam</FatherName>
+      <MotherName>Alina</MotherName>
+      <Study>
+        <Name>Sztuka Nowych Mediów dzienne</Name>
+        <Mode>Dzienne</Mode>
+      </Study>
+    </Student>
+    <Student IndexNumber="4655">
+      <FirstName>Marta</FirstName>
+      <LastName>Maciejewski33</LastName>
+      <DOB>2000-02-12</DOB>
+      <EmailAddress>33@pjwstk.edu.pl</EmailAddress>
+      <FatherName>Adam</FatherName>
+      <MotherName>Alina</MotherName>
+      <Study>
+        <Name>Sztuka Nowych Mediów dzienne</Name>
+        <Mode>Dzienne</Mode>
+      </Study>
+    </Student>
+  </Students>
+</University>
